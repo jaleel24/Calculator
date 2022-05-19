@@ -1,3 +1,29 @@
+# Simple Calculator application
+
+# Mainly has 3 sub components
+### `Grid`:
+- this has all the num pads and operators buttons
+- plus has arithmetic functions 
+
+### `OutputScreen`:
+- Clear from the name, that this component shows all the output of the calculations
+
+### `appTitle`:
+- This component shows the title of the application.
+
+# Framework Used for this APP:
+- React.js
+# Main focus of the project
+- functionality
+- simplicity
+- user freindly
+- showcase of the understanding of the framework
+
+# Things which could have been done better.
+- components structure
+- use of more concepts of react like lifting the state up etc
+
+------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
